@@ -3,7 +3,7 @@
 <div align="left">
   <p>🎓 Student of the Faculty of Computer Science and Cybernetics at Taras Shevchenko National University of Kyiv</p>
   <p>🌱 I’m currently learning JS</p>
-  <p>📫 How to reach me: deikoveronika@gmail.com</p>
+  <p>📫 How to reach me: <a href="mailto:deikoveronika@gmail.com">deikoveronika@gmail.com</a></p>
 </div>
 
 
