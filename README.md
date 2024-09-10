@@ -17,7 +17,7 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="visualstudio" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="pycharm" width="40" height="40"/> </a>
 </p>
-<div><img src="https://github-readme-stats.vercel.app/api?username=DeikoVeronika&show_icons=true&locale=en&title_color=ab0c5b&text_color=ab0c5b&icon_color=ab0c5b&bg_color=ffffff" alt="veronikadeiko" /></div>
+<div><img src="https://github-readme-stats.vercel.app/api?username=DeikoVeronika&show_icons=true&locale=en&title_color=ab0c5b&text_color=ab0c5b&icon_color=470425&bg_color=ffffff" alt="veronikadeiko" /></div>
 
 ## My social media
 <div>
