@@ -23,10 +23,6 @@
 <div>
 <a href="https://www.instagram.com/deiko_veronika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
-
-<div align="center">
-  <p> <img src="https://komarev.com/ghpvc/?username=DeikoVeronika&label=Profile%20views&color=0e75b6&style=flat" alt="Veronika Deiko" /> </p>
-</div>
 <!--
 **DeikoVeronika/DeikoVeronika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
